@@ -1,4 +1,4 @@
-/Cálculo de IMC
+//Cálculo de IMC
 //Crie um programa para calcular o IMC e nível de obesidade de uma pessoa.
 //Comece criando constantes para armazenar o nome, peso, altura e sexo de uma pessoa.
 
